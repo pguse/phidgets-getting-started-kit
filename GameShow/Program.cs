@@ -36,14 +36,6 @@ namespace GameShow
             Console.Write("What is {0} x {1} ? ", a, b);
             return a*b;
         }
-        static bool correctResponse(int c){
-            int answer = int.Parse( Console.ReadLine() );
-            if (answer == c){
-                return true;
-            } else {
-                return false;
-            }
-        }
 
         static void Main(string[] args)
         {
@@ -86,17 +78,18 @@ namespace GameShow
             greenLED.Open(1000);
 
             while (programIsRunning) {
-
+                // Ask the question
                 if (newQuestion){
                     answer = Question();
                     newQuestion = false;
                 }
 
+                // handle red response
                 if (turnRedLEDOn && !greenTurn) {
                     redTurn = true;
                     redLED.State = true;
                     System.Threading.Thread.Sleep(500);
-                    if ( correctResponse( answer ) ){
+                    if ( answer == int.Parse( Console.ReadLine() ) ){
                         redPoints++;
                     }
                     Console.WriteLine("Red: {0}  Green: {1}", redPoints, greenPoints);
@@ -107,12 +100,13 @@ namespace GameShow
                 } else {
                     redLED.State = false;
                 }
-
+                
+                // handle green response
                 if (turnGreenLEDOn && !redTurn) {
                     greenTurn = true;
                     greenLED.State = true;
                     System.Threading.Thread.Sleep(500);
-                    if ( correctResponse( answer ) ){
+                    if ( answer == int.Parse( Console.ReadLine() ) ){
                         greenPoints++;
                     }
                     Console.WriteLine("Red: {0}  Green: {1}", redPoints, greenPoints);
