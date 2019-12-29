@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pguse\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pguse\\.nuget\\packages"
+    ]
+  }
+}

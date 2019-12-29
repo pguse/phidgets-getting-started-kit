@@ -1,0 +1,15 @@
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\bin\Debug\netcoreapp3.1\dll\x86\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\bin\Debug\netcoreapp3.1\dll\x64\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\bin\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.exe
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\bin\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.deps.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\bin\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.runtimeconfig.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\bin\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.runtimeconfig.dev.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\bin\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\bin\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.pdb
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\bin\Debug\netcoreapp3.1\Phidget22.NET.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\obj\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.csprojAssemblyReference.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\obj\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.AssemblyInfoInputs.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\obj\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.AssemblyInfo.cs
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\obj\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.csproj.CopyComplete
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\obj\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\Phidgets_DigitalInput_Test\obj\Debug\netcoreapp3.1\Phidgets_DigitalInput_Test.pdb
