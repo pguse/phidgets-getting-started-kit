@@ -1,0 +1,15 @@
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\bin\Debug\netcoreapp3.1\dll\x86\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\bin\Debug\netcoreapp3.1\dll\x64\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\bin\Debug\netcoreapp3.1\SimonGame.exe
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\bin\Debug\netcoreapp3.1\SimonGame.deps.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\bin\Debug\netcoreapp3.1\SimonGame.runtimeconfig.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\bin\Debug\netcoreapp3.1\SimonGame.runtimeconfig.dev.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\bin\Debug\netcoreapp3.1\SimonGame.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\bin\Debug\netcoreapp3.1\SimonGame.pdb
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\bin\Debug\netcoreapp3.1\Phidget22.NET.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\obj\Debug\netcoreapp3.1\SimonGame.csprojAssemblyReference.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\obj\Debug\netcoreapp3.1\SimonGame.AssemblyInfoInputs.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\obj\Debug\netcoreapp3.1\SimonGame.AssemblyInfo.cs
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\obj\Debug\netcoreapp3.1\SimonGame.csproj.CopyComplete
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\obj\Debug\netcoreapp3.1\SimonGame.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\SimonGame\obj\Debug\netcoreapp3.1\SimonGame.pdb
