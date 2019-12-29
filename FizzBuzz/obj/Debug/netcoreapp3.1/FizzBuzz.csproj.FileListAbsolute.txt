@@ -1,0 +1,15 @@
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\bin\Debug\netcoreapp3.1\dll\x86\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\bin\Debug\netcoreapp3.1\dll\x64\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\bin\Debug\netcoreapp3.1\Phidget22.NET.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CopyComplete
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
