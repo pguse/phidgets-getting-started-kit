@@ -1,0 +1,15 @@
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\bin\Debug\netcoreapp3.1\dll\x86\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\bin\Debug\netcoreapp3.1\dll\x64\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\bin\Debug\netcoreapp3.1\RedvsGreen.exe
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\bin\Debug\netcoreapp3.1\RedvsGreen.deps.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\bin\Debug\netcoreapp3.1\RedvsGreen.runtimeconfig.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\bin\Debug\netcoreapp3.1\RedvsGreen.runtimeconfig.dev.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\bin\Debug\netcoreapp3.1\RedvsGreen.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\bin\Debug\netcoreapp3.1\RedvsGreen.pdb
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\bin\Debug\netcoreapp3.1\Phidget22.NET.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\obj\Debug\netcoreapp3.1\RedvsGreen.csprojAssemblyReference.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\obj\Debug\netcoreapp3.1\RedvsGreen.AssemblyInfoInputs.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\obj\Debug\netcoreapp3.1\RedvsGreen.AssemblyInfo.cs
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\obj\Debug\netcoreapp3.1\RedvsGreen.csproj.CopyComplete
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\obj\Debug\netcoreapp3.1\RedvsGreen.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedvsGreen\obj\Debug\netcoreapp3.1\RedvsGreen.pdb
