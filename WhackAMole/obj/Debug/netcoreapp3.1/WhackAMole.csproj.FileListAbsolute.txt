@@ -1,0 +1,15 @@
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\bin\Debug\netcoreapp3.1\dll\x86\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\bin\Debug\netcoreapp3.1\dll\x64\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\bin\Debug\netcoreapp3.1\WhackAMole.exe
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\bin\Debug\netcoreapp3.1\WhackAMole.deps.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\bin\Debug\netcoreapp3.1\WhackAMole.runtimeconfig.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\bin\Debug\netcoreapp3.1\WhackAMole.runtimeconfig.dev.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\bin\Debug\netcoreapp3.1\WhackAMole.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\bin\Debug\netcoreapp3.1\WhackAMole.pdb
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\bin\Debug\netcoreapp3.1\Phidget22.NET.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\obj\Debug\netcoreapp3.1\WhackAMole.csprojAssemblyReference.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\obj\Debug\netcoreapp3.1\WhackAMole.AssemblyInfoInputs.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\obj\Debug\netcoreapp3.1\WhackAMole.AssemblyInfo.cs
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\obj\Debug\netcoreapp3.1\WhackAMole.csproj.CopyComplete
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\obj\Debug\netcoreapp3.1\WhackAMole.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\WhackAMole\obj\Debug\netcoreapp3.1\WhackAMole.pdb
