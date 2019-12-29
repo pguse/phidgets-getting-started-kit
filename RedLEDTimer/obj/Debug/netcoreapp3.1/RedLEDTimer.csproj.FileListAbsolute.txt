@@ -1,0 +1,15 @@
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\bin\Debug\netcoreapp3.1\dll\x86\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\bin\Debug\netcoreapp3.1\dll\x64\phidget22.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\bin\Debug\netcoreapp3.1\RedLEDTimer.exe
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\bin\Debug\netcoreapp3.1\RedLEDTimer.deps.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\bin\Debug\netcoreapp3.1\RedLEDTimer.runtimeconfig.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\bin\Debug\netcoreapp3.1\RedLEDTimer.runtimeconfig.dev.json
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\bin\Debug\netcoreapp3.1\RedLEDTimer.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\bin\Debug\netcoreapp3.1\RedLEDTimer.pdb
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\bin\Debug\netcoreapp3.1\Phidget22.NET.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\obj\Debug\netcoreapp3.1\RedLEDTimer.csprojAssemblyReference.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\obj\Debug\netcoreapp3.1\RedLEDTimer.AssemblyInfoInputs.cache
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\obj\Debug\netcoreapp3.1\RedLEDTimer.AssemblyInfo.cs
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\obj\Debug\netcoreapp3.1\RedLEDTimer.csproj.CopyComplete
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\obj\Debug\netcoreapp3.1\RedLEDTimer.dll
+C:\Users\pguse\Documents\GitHub\phidgets-getting-started-kit\RedLEDTimer\obj\Debug\netcoreapp3.1\RedLEDTimer.pdb
